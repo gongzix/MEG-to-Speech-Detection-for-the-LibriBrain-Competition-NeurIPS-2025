@@ -1,6 +1,6 @@
-This is the code implementation by **Parameter Team** for the Standard Track of the Speech Detection in the first phase of [LibriBrain Competition](https://neural-processing-lab.github.io/2025-libribrain-competition/) (NeurIPS 2025).
+This is the code implementation by **Parameter Team** for the Standard Track of the MEG Speech Detection in the first phase of [LibriBrain Competition](https://neural-processing-lab.github.io/2025-libribrain-competition/) (NeurIPS 2025).
 
-**2025-12-7**：Congratulations! Our model achieved **1st** place in the Speech Detection Standard Track! 🎉🥇🏆
+**2025-12-7**：🎉 Congratulations! Our model achieved **1st** place in the Speech Detection Standard Track! 🥇🏆
 
 ## Note:
 
