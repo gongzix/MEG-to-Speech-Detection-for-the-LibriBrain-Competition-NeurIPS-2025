@@ -2,7 +2,7 @@ This is the code implementation by **Parameter Team** for the Standard Track of 
 
 **2025-12-7**：🎉 Congratulations! Our model achieved **1st** place in the Speech Detection Standard Track! 🥇🏆
 
-![track1](assets/sherlock3.png)
+![track1](assets/sherlock3.gif)
 
 ## Note:
 
