@@ -2,6 +2,8 @@ This is the code implementation by **Parameter Team** for the Standard Track of 
 
 **2025-12-7**：🎉 Congratulations! Our model achieved **1st** place in the Speech Detection Standard Track! 🥇🏆
 
+![track1](assets/sherlock3.png)
+
 ## Note:
 
 In practice, we found that the choice of model architecture was not the dominant factor. Among the models we tested, the classical CNN+TCN (Temporal Convolutional Network) achieved the best single-model performance, with deeper architectures further improving results on the holdout dataset. In addition, CLDNN, Transformer, and Transformer-inspired EEG models yielded suboptimal but competitive performance. Finally, we aggregated the inference outputs of multiple models using majority voting, where ensembles combining more distinct architectures, such as TCN and Transformer, proved particularly effective. **Here we present the training code for three types of models: CNN+TCN, CLDNN, and Transformer.**
