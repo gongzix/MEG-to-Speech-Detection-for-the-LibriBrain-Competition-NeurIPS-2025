@@ -1,6 +1,6 @@
 This is the code implementation by **Parameter Team** for the Standard Track of the MEG Speech Detection in the first phase of [LibriBrain Competition](https://neural-processing-lab.github.io/2025-libribrain-competition/) (**NeurIPS 2025 Competition Track**).
 
-Team members: Zixuan Gong, Dongyang Li, Chi Zhang, Yiqian Yang;
+Team members: Zixuan Gong, Dongyang Li, Chi Zhang, Yiqian Yang, Wen Wu;
 
 Adviser: Chao Zhang
 
